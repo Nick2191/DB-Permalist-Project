@@ -1,4 +1,4 @@
-The Permalist Project is a Database project to create to-do list with persistant data. This was a part of the Full Stack Web Dev course I am learning from.
+The Permalist Project is a Database project to create to-do list app with persistant data. This was a part of the Full Stack Web Dev course I am learning from.
  
 Database used is PostgreSQL, Node.Js/Express.JS used to create the application. This is my first use of dotenv to keep local evnvironment variables separate, but I included a .env.example file to be used as a template. 
 
